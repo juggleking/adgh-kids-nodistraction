@@ -2,15 +2,6 @@
 !
 
 ! TikTok
-||rtc-logger-va.tiktokv.com^
-||rtlog.tiktokv.com^
-||mon*-*.tiktokv.us^
-||mon.us.tiktokv.com^
-||mon-*.tiktokv.com^
-||mon.tiktokv.com^
-||xlog.tiktokv.com^
-||xlog-va.tiktokv.com^
-||xlog*-*.tiktokv.com^
-||mcs-va.tiktokv.com^
-||mcs-va-*.tiktokv.com^
-||analytics.tiktok.com^
+||tiktokcdn.com^
+
+
