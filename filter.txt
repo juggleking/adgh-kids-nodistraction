@@ -4,5 +4,4 @@
 ! TikTok
 ||tiktokcdn.com^
 ||tiktok.com^
-
-
+||tiktokv.com^
